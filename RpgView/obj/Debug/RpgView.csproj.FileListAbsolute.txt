@@ -17,3 +17,6 @@ E:\Programs\ws\RpgBase\RpgView\bin\Debug\RpgView.exe.manifest
 E:\Programs\ws\RpgBase\RpgView\bin\Debug\RpgView.application
 E:\Programs\ws\RpgBase\RpgView\obj\Debug\RpgView.exe.manifest
 E:\Programs\ws\RpgBase\RpgView\obj\Debug\RpgView.application
+E:\Programs\ws\GitHub\RPGBase\RpgView\bin\Debug\RpgView.exe.config
+E:\Programs\ws\GitHub\RPGBase\RpgView\obj\Debug\RpgView.exe
+E:\Programs\ws\GitHub\RPGBase\RpgView\obj\Debug\RpgView.pdb
