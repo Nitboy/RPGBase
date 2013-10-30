@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{F5A3ABEA-3421-46AB-AB61-4BC4F29BEEAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameController", "GameWorld\GameController.csproj", "{1605378B-B6B2-4856-8133-69F575E1176D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpgView", "RpgView\RpgView.csproj", "{AB64F047-C846-48D2-A4B4-5FBDDD611B80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A3ABEA-3421-46AB-AB61-4BC4F29BEEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A3ABEA-3421-46AB-AB61-4BC4F29BEEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A3ABEA-3421-46AB-AB61-4BC4F29BEEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A3ABEA-3421-46AB-AB61-4BC4F29BEEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1605378B-B6B2-4856-8133-69F575E1176D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1605378B-B6B2-4856-8133-69F575E1176D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1605378B-B6B2-4856-8133-69F575E1176D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1605378B-B6B2-4856-8133-69F575E1176D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB64F047-C846-48D2-A4B4-5FBDDD611B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB64F047-C846-48D2-A4B4-5FBDDD611B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB64F047-C846-48D2-A4B4-5FBDDD611B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB64F047-C846-48D2-A4B4-5FBDDD611B80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

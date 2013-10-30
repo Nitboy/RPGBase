@@ -1,0 +1,5 @@
+E:\Programs\ws\RpgBase\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Programs\ws\RpgBase\Model\bin\Debug\Model.dll
+E:\Programs\ws\RpgBase\Model\bin\Debug\Model.pdb
+E:\Programs\ws\RpgBase\Model\obj\Debug\Model.dll
+E:\Programs\ws\RpgBase\Model\obj\Debug\Model.pdb

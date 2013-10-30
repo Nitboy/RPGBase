@@ -1,0 +1,7 @@
+E:\Programs\ws\RpgBase\GameWorld\obj\Debug\GameController.csprojResolveAssemblyReference.cache
+E:\Programs\ws\RpgBase\GameWorld\bin\Debug\GameController.dll
+E:\Programs\ws\RpgBase\GameWorld\bin\Debug\GameController.pdb
+E:\Programs\ws\RpgBase\GameWorld\bin\Debug\Model.dll
+E:\Programs\ws\RpgBase\GameWorld\bin\Debug\Model.pdb
+E:\Programs\ws\RpgBase\GameWorld\obj\Debug\GameController.dll
+E:\Programs\ws\RpgBase\GameWorld\obj\Debug\GameController.pdb
